@@ -6,4 +6,4 @@
 - navigate to /bin/Debug/net6.0-windows
 - run StonksSimulator.exe and gamble
 
-### creds:matav
+### cred:matav
